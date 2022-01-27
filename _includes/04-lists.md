@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+<ol>
+
+<li> - [ ] Supra </li>
+<li> - [ ] Skyline </li>
+<li> - [ ] Trueno </li>
+ 
+</ol>
+  
